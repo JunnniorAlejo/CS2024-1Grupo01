@@ -121,9 +121,19 @@ Las zonas estarán establecidas por medio de polígonos en un mapa
 ## Panel de Operarios para el administrador
 
 [![IMG-20240415-WA0007.jpg](https://i.postimg.cc/3wtb9fMZ/IMG-20240415-WA0007.jpg)](https://postimg.cc/qtCLvLvt)
+
+## Panel para agregar Nuevo Operador 
+
+![addoperador](https://github.com/eluqm/CS2024-1Grupo01/assets/113553141/ceb25dd7-f842-47cd-b6f6-4e0d3c0f03be)
+
 ## Gestión de Zonas
 
 [![IMG-20240415-WA0008.jpg](https://i.postimg.cc/tT7vcdpG/IMG-20240415-WA0008.jpg)](https://postimg.cc/bDcRDtZm)
+
+## Panel para agregar Nueva Planificación 
+
+![addPlanificacion](https://github.com/eluqm/CS2024-1Grupo01/assets/113553141/1dfc2027-4ce4-43f6-a0ff-77f61ce0e2d2)
+
 
 Formulario para registrar nuevas zonas de acción.
 Lista de zonas existentes con opciones para editar o eliminar.
@@ -137,6 +147,7 @@ Posibilidad de asignar múltiples personas a una misma zona con distintas tareas
 
 [![IMG-20240415-WA0006.jpg](https://i.postimg.cc/3xBLJfwH/IMG-20240415-WA0006.jpg)](https://postimg.cc/hXX82rxC)
 
+![imagen4](https://github.com/eluqm/CS2024-1Grupo01/assets/113553141/a5868d17-6af2-419d-803d-039281f19b11)
 
 
 
