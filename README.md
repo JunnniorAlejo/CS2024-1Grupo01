@@ -137,6 +137,7 @@ Posibilidad de asignar múltiples personas a una misma zona con distintas tareas
 
 [![IMG-20240415-WA0006.jpg](https://i.postimg.cc/3xBLJfwH/IMG-20240415-WA0006.jpg)](https://postimg.cc/hXX82rxC)
 
+![imagen4](https://github.com/eluqm/CS2024-1Grupo01/assets/113553141/fd93dfec-aebd-45d5-a190-3eb5418ed920)
 
 
 
